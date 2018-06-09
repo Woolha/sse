@@ -1,0 +1,18 @@
+{
+  "name": "woolha-sse",
+  "version": "1.0.0",
+  "description": "Server-Sent Events helper by Woolha.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sse"
+  ],
+  "author": "woolha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/woolha/sse/issues"
+  },
+  "homepage": "https://github.com/woolha/sse"
+}
